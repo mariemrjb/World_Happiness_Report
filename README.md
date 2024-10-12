@@ -1,1 +1,1 @@
-# WHR
+# World Happiness Dashboard
