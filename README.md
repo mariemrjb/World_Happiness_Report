@@ -1,6 +1,6 @@
 # World Happiness Dashboard
 ## Project Overview 
-This project involves designing and featuring an interactive Power BI dashboard that visualizes key happiness indicators and understand the factors that influence happiness scores across different countries.
+This project focuses on preparing and analyzing the World Happiness dataset. Data cleaning was performed in Python to ensure accuracy and reliability, followed by designing an interactive Power BI dashboard to visualize key happiness indicators and explore factors influencing happiness scores across countries.
 ## KPIs Description:
 -**Total Countries Analyzed:** 137 countries included in the dataset.
 - **Average Happiness Score:** The overall average happiness score across all countries.
